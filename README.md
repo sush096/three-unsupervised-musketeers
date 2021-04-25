@@ -1,10 +1,11 @@
-# three-unsupervised-muskeeters 
+# Three-Unsupervised-Muskeeters 
 
-# VenusHack
+### VenusHack
 
-## Title of project: Unsupervised Learning Identifies Covid-19 Deaths, Hospitalizations, and Socioeconomic Factors as the Primary Drivers of GDP per capita Decline Across Countries in the World
+### Title of project: 
+Unsupervised Learning Identifies Covid-19 Deaths, Hospitalizations, and Socioeconomic Factors as the Primary Drivers of GDP per capita Decline Across Countries in the World
 
-## Team Members:
-### Nancy Yuan
-### Momita Pal
-### Nandita Tomar
+### Team Members:
+ Nancy Yuan
+ Momita Pal
+ Nandita Tomar
